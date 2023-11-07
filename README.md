@@ -22,4 +22,10 @@ This repository stores my solutions from examples of [Grokking Algorithms](https
 ### Chapter 4: Quicksort
 
 4. Quicksort
+
    - [JavaScript](./04-quicksort/index.js)
+
+### Chapter 5: Hash Tables
+
+5. Hash Tables
+   - [JavaScript](./05-hash_table/index.js)
